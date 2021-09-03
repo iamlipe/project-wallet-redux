@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/project-wallet-redux/static/css/main.3e51d52f.chunk.css",
+    "main.js": "/project-wallet-redux/static/js/main.35f1e39f.chunk.js",
+    "main.js.map": "/project-wallet-redux/static/js/main.35f1e39f.chunk.js.map",
+    "runtime-main.js": "/project-wallet-redux/static/js/runtime-main.284ab107.js",
+    "runtime-main.js.map": "/project-wallet-redux/static/js/runtime-main.284ab107.js.map",
+    "static/js/2.5729d50c.chunk.js": "/project-wallet-redux/static/js/2.5729d50c.chunk.js",
+    "static/js/2.5729d50c.chunk.js.map": "/project-wallet-redux/static/js/2.5729d50c.chunk.js.map",
+    "index.html": "/project-wallet-redux/index.html",
+    "precache-manifest.84a7aae4dabe58e5a7a79583712f752d.js": "/project-wallet-redux/precache-manifest.84a7aae4dabe58e5a7a79583712f752d.js",
+    "service-worker.js": "/project-wallet-redux/service-worker.js",
+    "static/css/main.3e51d52f.chunk.css.map": "/project-wallet-redux/static/css/main.3e51d52f.chunk.css.map",
+    "static/js/2.5729d50c.chunk.js.LICENSE.txt": "/project-wallet-redux/static/js/2.5729d50c.chunk.js.LICENSE.txt",
+    "static/media/Login.png": "/project-wallet-redux/static/media/Login.c063d5ab.png",
+    "static/media/arrow.svg": "/project-wallet-redux/static/media/arrow.d46ea51d.svg",
+    "static/media/delete.svg": "/project-wallet-redux/static/media/delete.cbfce9ba.svg",
+    "static/media/edit.svg": "/project-wallet-redux/static/media/edit.dbff935c.svg",
+    "static/media/vector.svg": "/project-wallet-redux/static/media/vector.b588dd38.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.284ab107.js",
+    "static/js/2.5729d50c.chunk.js",
+    "static/css/main.3e51d52f.chunk.css",
+    "static/js/main.35f1e39f.chunk.js"
+  ]
+}
